@@ -36,7 +36,7 @@
   
   
 ### Studying in this moment:
-![Angular](https://img.shields.io/badge/Angular-0D1117.svg?style=for-the-badge&logo=Angular&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&labelColor=0D1117)&nbsp;
 
 
   <div align="center">
