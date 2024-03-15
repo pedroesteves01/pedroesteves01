@@ -10,8 +10,6 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/pedro_esteves1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.twitter.com/kropsz" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=white"</a>
-<a href="https://www.discord.gg/t3cQn4Fe" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=white"</a>
 <a href="https://https://www.linkedin.com/in/pedro-henrique-esteves-guedes-30a295255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   </div>
   
